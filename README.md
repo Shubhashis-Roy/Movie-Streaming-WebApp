@@ -8,3 +8,5 @@
 <a href="https://netflix-sclone.vercel.app" target="_blank"><img  src='./demo/ezgif-1-2a6c90cdd6.gif' alt='image'/></a>
 </div>
 
+## <a href="https://netflix-sclone.vercel.app" target="_blank">LIVE DEMO 💥</a>
+
