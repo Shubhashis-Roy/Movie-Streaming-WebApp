@@ -4,7 +4,7 @@
 
   <h1>NETFLIX with NODE.JS!</h1>
    <p>
-  NETFLIX 2.0 with NODE.JS!(Node.js, Express v4.18.1, Tailwind CSS, TMDB Api, Firebase Authentication, primary information about a movies)
+  NETFLIX with NODE.JS!(Node.js, Express v4.18.1, Tailwind CSS, TMDB Api, Firebase Authentication, primary information about a movies)
   </p>
 
 </div>
