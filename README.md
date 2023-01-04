@@ -39,14 +39,14 @@ This project is a simplified backcnd and frontend clone of Netflix. Any User can
 </table
 
 
-<h3> NPM Packages </h3>
+### NPM Packages
 - express
 - bcrypy
 - mongoose
 - cors
 - dotenv
 - nodemon
-<h3> Other Applications </h3>
+  ### Other Applications
 - Postman
 - Thunder Client
 - Vs Code
