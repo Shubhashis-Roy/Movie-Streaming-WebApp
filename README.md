@@ -38,7 +38,6 @@ This project is a simplified backcnd and frontend clone of Netflix. Any User can
       </tbody>    
 </table
 
-
 ### NPM Packages
 - express
 - bcrypy
@@ -46,7 +45,7 @@ This project is a simplified backcnd and frontend clone of Netflix. Any User can
 - cors
 - dotenv
 - nodemon
-  ### Other Applications
+### Other Applications
 - Postman
 - Thunder Client
 - Vs Code
