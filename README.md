@@ -39,7 +39,7 @@ This project is a simplified backcnd and frontend clone of Netflix. Any User can
 </table
 
 
-### NPM Packages
+### <b> NPM Packages </b>
 - express
 - bcrypy
 - mongoose
