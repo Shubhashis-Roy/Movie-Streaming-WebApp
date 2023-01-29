@@ -15,7 +15,7 @@ This project is a simplified backcnd and frontend clone of Netflix. Any User can
 
 <h3> <a href="https://subha-netflix-clone.netlify.app/">View Demo</a> </h3>
 
-<br>
+
 ### Concepts
 #### This Netfix Clone is build on three basic concepts
 
