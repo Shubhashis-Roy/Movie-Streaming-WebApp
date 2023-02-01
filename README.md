@@ -11,7 +11,7 @@ NETFLIX 2.0 with NODE.JS!(Node.js, Express v4.18.1, Tailwind CSS, TMDB Api, Fire
 
 <hr>
 <h2>Description</h2>
-This project is a simplified backcnd and frontend clone of Netflix. Any User can <b>create an account</b> or <b>login</b> using <b>gmail</b>  and search for <b> movies, drama </b> and <b> web series</b>.Users can also added movies and drame in their <b>favorite list </b>.
+This project is a simplified backcnd and frontend clone of Netflix. Any User can <b>create an account</b> or <b>login</b> using <b>gmail</b>  and search for <b> movies, drama </b> and <b> web series</b>.Users can also added movies and drame in their <b>favorite list. </b>
 
 <h3> <a href="https://subha-netflix-clone.netlify.app/">View Demo</a> </h3>
 
