@@ -2,9 +2,9 @@
 
   <img src="https://www.91-cdn.com/hub/wp-content/uploads/2022/05/Free-movies-and-TV-shows-apps-and-websites-1200x900.png" alt="logo" width="565" height="350px" />
 
-  <h1> Movie Streaming WebApp </h1>
+  <h1> Movie WebApp </h1>
     <p>
-Movie Streaming WebApp with NODE.JS!(Node.js, Express v4.18.1, Tailwind CSS, TMDB Api, Firebase Authentication, primary information about a movies)
+Movie WebApp with NODE.JS!(Node.js, Express v4.18.1, Tailwind CSS, TMDB Api, Firebase Authentication, primary information about a movies)
   </p>
 
 </div>
