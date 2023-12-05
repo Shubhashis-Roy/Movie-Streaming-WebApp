@@ -1,25 +1,25 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/99184393/210160017-d4ded1e1-49d8-424d-b14c-a284856e730c.png" alt="logo" width="205" height="auto" />
+  <img src="https://www.91-cdn.com/hub/wp-content/uploads/2022/05/Free-movies-and-TV-shows-apps-and-websites-1200x900.png" alt="logo" width="565" height="350px" />
 
-  <h1>NETFLIX 2.0 with NODE.JS!</h1>
+  <h1> Movie Streaming WebApp </h1>
     <p>
-NETFLIX 2.0 with NODE.JS!(Node.js, Express v4.18.1, Tailwind CSS, TMDB Api, Firebase Authentication, primary information about a movies)
+Movie Streaming WebApp with NODE.JS!(Node.js, Express v4.18.1, Tailwind CSS, TMDB Api, Firebase Authentication, primary information about a movies)
   </p>
 
 </div>
 
 <hr>
 <h2>Description</h2>
-This project is a simplified backcnd and frontend clone of Netflix. Any User can <b>create an account</b> or <b>login</b> using <b>gmail</b>  and search for <b> movies, drama </b> and <b> web series</b>.Users can also added movies and drame in their <b>favorite list. </b>
+This project is a simplified back-end and front-end clone of Netflix. Any User can <b>create an account</b> or <b>login</b> using <b>gmail</b>  and search for <b> movies, drama </b> and <b> web series</b>. Users can also add movies and drame to their <b>favorite list. </b>
 
-<h3> <a href="https://subha-netflix-clone.netlify.app/">View Demo</a> </h3>
+<h3> <a href="https://subha-netflix-clone.netlify.app/">Live Demo</a> </h3>
 
 
 ### Concepts
-#### This Netfix Clone is build on three basic concepts
+#### This Netflix Clone is built on three basic concepts
 
-- Searching: The root concept of the this clone is after create or login user can search any movies, drama and web series with their choose.
+- Searching: The root concept of this clone is after creating or login user can search any movies, drama and web series with their choose.
 
 - Categorically Distincted: After login or singup, user can witness the contains are divied into their specific domain.
 
